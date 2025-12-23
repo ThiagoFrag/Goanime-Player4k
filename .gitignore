@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# MPV binaries
+mpv/mpv.exe
+mpv/d3dcompiler_43.dll
+
+# Cache files
+mpv/portable_config/cache/
+portable_config/cache/
+
+# Build outputs
+bin/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
