@@ -1,4 +1,4 @@
-module player4k
+module github.com/ThiagoFrag/Goanime-Player4k
 
 go 1.21
 
